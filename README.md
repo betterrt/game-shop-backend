@@ -19,6 +19,6 @@ The whole project is an e-commerce application, it streamlined game browsing and
 4. Cart
 5. Order
 6. Admin
-   ![Image text](https://raw.github.com/betterrt/repository/master/game-shop-backend/img/Elden.jpg)
+   ![image]([https://raw.github.com/betterrt/repository/master/game-shop-backend/img/Elden.jpg](https://github.com/betterrt/game-shop-backend/blob/main/img/Elden.jpg)https://github.com/betterrt/game-shop-backend/blob/main/img/Elden.jpg)
 
 
