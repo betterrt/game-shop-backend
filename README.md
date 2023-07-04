@@ -16,7 +16,6 @@ The whole project is an e-commerce application, it streamlined game browsing and
    
 ## Basic Features of the application
 1. Home Page  
- 
      ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/home.png)
 2. Search Page  
    User can search by word, or filter by category.
@@ -32,17 +31,20 @@ The whole project is an e-commerce application, it streamlined game browsing and
    
 5. Order  
    The detail button can show you the items in that order.
-   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Order.png)
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Orders.png)
    
 6. Admin  
-   The following features are only available to the admin 
+   The following features are only available to the admin  
    (1) Add A New Game
+   
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-new.png)
    
    (2) Modify the price/stock of a game
+   
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-modify.png)
    
    (3) Manage all the orders
-   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-order.jpg)
+   
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-order.png)
 
 
