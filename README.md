@@ -29,19 +29,19 @@ The whole project is an e-commerce application, it streamlined game browsing and
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Details.png)
    
-4. Cart
+5. Cart
        
    The shopping cart of the user
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Cart.png)
    
-5. Order
+6. Order
      
    The 'Detail' button redirects you to the order detail page.
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Orders.png)
    
-6. Admin
+7. Admin
      
    The following features are only available to the admin:
      
