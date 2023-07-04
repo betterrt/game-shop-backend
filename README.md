@@ -16,11 +16,22 @@ The whole project is an e-commerce application, it streamlined game browsing and
    
 ## Basic Features of the application
 1. Home Page
+   
 2. Search Page
+   User can search by word, or filter by category.
+   
 3. Game Detail Page
+   User can add the game into cart, and leave a review here. He can also browse other people's reviews.
+   
 4. Cart
+   
 5. Order
+   The detail button can show you the items in that order.
+   
 6. Admin
+   (1) Add A New Game
+   (2) Modify the price/stock of a game
+   (3) Manage all the orders
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Elden.jpg)
 
 
