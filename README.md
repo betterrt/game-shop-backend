@@ -1,7 +1,7 @@
 # Online Game shop
 
-The entire project utilizes Spring Boot for the backend and React for the frontend. The backend application is stored in this repository, while the frontend program has its own repository.
-Here is the [link](https://github.com/betterrt/game-shop-frontend) to the frontend repository.
+The entire project utilizes Spring Boot for the backend and React for the frontend. The backend application is stored in this repository, while the frontend program has its own repository([link](https://github.com/betterrt/game-shop-frontend)).
+
 
 ## Objective
 
@@ -16,25 +16,26 @@ The whole project is an e-commerce application, it streamlined game browsing and
    
 ## Basic Features of the application
 1. Home Page
+   ****
      ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/home.png)
    
-2. Search Page
+3. Search Page
    User can search by word, or filter by category.
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Search.png)
    
-3. Game Detail Page
+4. Game Detail Page
    User can add the game into cart, and leave a review here. He can also browse other people's reviews.
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Details.png)
    
-4. Cart
+5. Cart
    The shopping cart of user
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Cart.png)
    
-5. Order
+6. Order
    The detail button can show you the items in that order.
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Order.png)
    
-6. Admin
+7. Admin
    The following features are only available to the admin
    (1) Add A New Game
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-new.png)
