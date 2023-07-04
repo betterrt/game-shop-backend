@@ -1,6 +1,6 @@
 # Online Game shop
 
-The entire project utilizes Spring Boot for the backend and React for the frontend. The backend application is stored in this repository, while the frontend program has its own repository([link](https://github.com/betterrt/game-shop-frontend)).
+The entire project utilizes Spring Boot for the backend and React for the frontend. The backend application is stored in this repository, while the frontend program has its own [repository](https://github.com/betterrt/game-shop-frontend).
 
 ## Objective
 
