@@ -16,22 +16,33 @@ The whole project is an e-commerce application, it streamlined game browsing and
    
 ## Basic Features of the application
 1. Home Page
+     ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/home.png)
    
 2. Search Page
    User can search by word, or filter by category.
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Search.png)
    
 3. Game Detail Page
    User can add the game into cart, and leave a review here. He can also browse other people's reviews.
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Details.png)
    
 4. Cart
+   The shopping cart of user
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Cart.png)
    
 5. Order
    The detail button can show you the items in that order.
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Order.png)
    
 6. Admin
+   The following features are only available to the admin
    (1) Add A New Game
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-new.png)
+   
    (2) Modify the price/stock of a game
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-modify.png)
+   
    (3) Manage all the orders
-   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Elden.jpg)
+   ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-order.jpg)
 
 
