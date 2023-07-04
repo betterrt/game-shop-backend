@@ -4,7 +4,7 @@ The entire project utilizes Spring Boot for the backend and React for the fronte
 
 ## Objective
 
-The whole project is an e-commerce application, it streamlined game browsing and purchasing for customers. The user can browse different kinds of games they like and get the detailed information of it. The application has many features, amoong which home page and search page are available for all customers, while shopping cart and order page are only available for registered users. The user can purchase games, leave a review, or track orders after login.
+The whole project is an e-commerce application, it streamlines game browsing and purchasing for customers. The frontend experience is improved by implementing responsive design principles. The user can browse different kinds of games they like and get the detailed information of it. The application has many features, among which home page and search page are available for all customers, while shopping cart and order page are only available for registered users. The user can purchase games, leave a review, or track orders after login.
 
 ## Tech Stack
 1. Uses RESTful API design to implement endpoints.  
@@ -29,31 +29,31 @@ The whole project is an e-commerce application, it streamlined game browsing and
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Details.png)
    
-5. Cart
+4. Cart
        
-   The shopping cart of the user
+   The shopping cart of the user.
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Cart.png)
    
-6. Order
+5. Order
      
    The 'Detail' button redirects you to the order detail page.
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Orders.png)
    
-7. Admin
+6. Admin
      
    The following features are only available to the admin:
      
-   (1) Add A New Game
+   (1) Add A New Game.
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-new.png)
    
-   (2) Modify the Price/Stock of A Game
+   (2) Modify the Price/Stock of A Game.
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-modify.png)
    
-   (3) Manage All the Orders
+   (3) Manage All the Orders.
    #  
    ![image](https://github.com/betterrt/game-shop-backend/blob/main/img/Admin-order.png)
 
