@@ -11,7 +11,8 @@ The whole project is an e-commerce application, it streamlined game browsing and
 ## Tech Stack
 1. Uses RESTful API design to implement endpoints.  
 2. Effectively utilizing Spring Data JPA for reliable data persistence.
-3. Enhance security by implementing user authentication and authorization mechanisms. Use technologies like JWT (JSON Web Tokens) or OAuth2 to authenticate users and authorize access to protected resources.
+3. Enhance security by using Okta to implemente user authentication and authorization mechanisms.
+4. Optimized endpoint response time through asynchronous programmingtechniques.
 
    
 ## Basic Features of the application
